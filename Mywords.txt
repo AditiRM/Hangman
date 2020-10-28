@@ -12,7 +12,6 @@ activity
 actually
 add
 address
-aditi
 administration
 admit
 adult
